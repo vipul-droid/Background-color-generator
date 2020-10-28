@@ -1,0 +1,15 @@
+body{
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: .5em;
+  background: linear-gradient(to right, red , yellow);
+}
+h1{
+ color: rgba(0,0,0,.5);
+ width: 100%;
+ letter-spacing: .5em;
+}
+h2{
+ color: rgba(0,0,0,.5);
+ letter-spacing: .2em;
+}
